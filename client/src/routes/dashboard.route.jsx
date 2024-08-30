@@ -8,7 +8,11 @@ const Dashboard = () => {
                 <div className="font-bold text-xl">
                     Reviews
                 </div>
-                <div>
+                <div className="w-[80%]">
+                    <Review/>
+                    <Review/>
+                    <Review/>
+                    <Review/>
                     <Review/>
                 </div>
             </div>

@@ -5,6 +5,9 @@ const Dashboard = () => {
         <div>
             <div>
                 <h1>Dashboard</h1>
+                <div className="font-bold text-xl">
+                    Reviews
+                </div>
                 <div>
                     <Review/>
                 </div>

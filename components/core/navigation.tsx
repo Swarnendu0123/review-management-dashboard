@@ -61,8 +61,8 @@ const components: { title: string; href: string; description: string }[] = [
 
 export function NavigationMenuComponent() {
     return (
-        <div className="flex justify-between px-20">
-            <div className="p-5 font-bold text-xl">
+        <div className="flex justify-between py-4">
+            <div className="font-bold text-xl">
                 Review Management System
             </div>
             <NavigationMenu>

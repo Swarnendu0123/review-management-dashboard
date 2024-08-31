@@ -15,7 +15,7 @@ import { NavigationMenuComponent } from "@/components/core/navigation"
 
 export default function NavigationMenuDemo() {
   return (
-    <div>
+    <div className="px-20">
       <NavigationMenuComponent />
 
       <div className="flex justify-evenly">
